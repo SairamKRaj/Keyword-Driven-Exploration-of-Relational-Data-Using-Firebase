@@ -12,7 +12,7 @@ The 3 selected databases are:
 
 ### Project Trailer
 
-<video src="video.mp4" width="400" height="300" controls preload></video>
+<video src="video.mp4" width="1000" height="600" controls preload></video>
 
 ### Team Members
 
