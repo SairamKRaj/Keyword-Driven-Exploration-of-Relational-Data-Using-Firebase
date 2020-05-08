@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## INF551 - Foundations of Data Management: Firebase Project.
 
-You can use the [editor on GitHub](https://github.com/SairamKRaj/Keyword-Driven-Exploration-of-Relational-Data-Using-Firebase/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As part of the INF551 – Foundations of Data Management course and with an inclination towards learning how to use cloud-based real-time database, we worked on performing keyword exploration of real-time data using Firebase. In this project, we researched over 50+ databases from several online repositories like Kaggle, Google Data Search, MySQL databases and sample databases from Microsoft and selected 3 databases.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We selected 3 CSV datasets (apart from the world dataset provided by the course faculty) from Kaggle based on our team’s interest and real-time requirement and satisfying course’s constraints that each dataset should have atleast 3 tables inter-related with each other through foreign-key relationships.
 
-### Markdown
+The 3 selected databases are: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.	SF Bay Area Bike Share Dataset - enables quick, easy, and affordable bike trips around the San Francisco Bay Area and 
+2.	Questions from Cross Validated Stack Exchange Dataset - Full text of questions and answers from Cross Validated, the statistics and machine learning Q&A site from the Stack Exchange network.
+3.	Novel Corona Virus Dataset -  This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus.
 
-```markdown
-Syntax highlighted code block
+### Project Trailer
 
-# Header 1
-## Header 2
-### Header 3
+### Team Members
 
-- Bulleted
-- List
+### Prior Research for the Project
 
-1. Numbered
-2. List
+We performed extensive research of over 50+ databases from several online repositories like Kaggle, Google Data Search, MySQL databases and sample databases from Microsoft and selected 3 databases that satisfies the course project requirement of having 3 tables in each dataset and over 100+ records in each table.
 
-**Bold** and _Italic_ and `Code` text
+While, I performed research on steps and processes of loading huge databases onto Firebase and how to overcome memory issues. My teammate performed research on steps to connect Web UI with Firebase and performing foreign-key searches across tables present in the database.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SairamKRaj/Keyword-Driven-Exploration-of-Relational-Data-Using-Firebase/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Project Documentation
