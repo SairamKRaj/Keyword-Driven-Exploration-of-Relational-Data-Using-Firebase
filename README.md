@@ -12,6 +12,8 @@ The 3 selected databases are:
 
 ### Project Trailer
 
+<video src="video.mp4" width="320" height="200" controls preload></video>
+
 ### Team Members
 
 ### Prior Research for the Project
