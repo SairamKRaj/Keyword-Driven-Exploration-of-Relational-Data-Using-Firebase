@@ -1,0 +1,436 @@
+Id,OwnerUserId,CreationDate,Score,Title
+1,8,2010-07-19T19:12:12Z,35,Eliciting priors from experts
+2,24,2010-07-19T19:12:57Z,28,What is normality?
+3,18,2010-07-19T19:13:28Z,65,What are some valuable Statistical Analysis open source projects?
+4,23,2010-07-19T19:13:31Z,17,Assessing the significance of differences in distributions
+6,5,2010-07-19T19:14:44Z,272,The Two Cultures: statistics vs. machine learning?
+7,38,2010-07-19T19:15:59Z,94,Locating freely available data samples
+10,24,2010-07-19T19:17:47Z,35,Under what conditions should Likert scales be used as ordinal or interval data?
+11,34,2010-07-19T19:18:30Z,3,Multivariate Interpolation Approaches
+17,NA,2010-07-19T19:24:12Z,10,How can I adapt ANOVA for binary data?
+21,59,2010-07-19T19:24:36Z,4,Forecasting demographic census
+22,66,2010-07-19T19:25:39Z,208,Bayesian and frequentist reasoning in plain English
+23,69,2010-07-19T19:26:04Z,15,Finding the PDF given the CDF
+25,69,2010-07-19T19:27:13Z,9,Tools for modeling financial time series
+26,75,2010-07-19T19:27:43Z,26,What is a standard deviation?
+30,69,2010-07-19T19:28:34Z,11,Testing random variate generation algorithms
+31,13,2010-07-19T19:28:44Z,138,What is the meaning of p values and t values in statistical tests?
+33,69,2010-07-19T19:30:03Z,5,R packages for seasonality analysis
+35,54,2010-07-19T19:30:30Z,11,Modelling a Poisson distribution with overdispersion
+36,8,2010-07-19T19:31:47Z,58,Examples for teaching: Correlation does not mean causation
+39,59,2010-07-19T19:32:29Z,5,Sample problems on logit modeling and Bayesian methods
+40,69,2010-07-19T19:32:47Z,9,Pseudo-random number generation algorithms
+44,68,2010-07-19T19:34:42Z,8,Explain data visualization
+47,22,2010-07-19T19:36:12Z,7,Clustering of large
+50,62,2010-07-19T19:37:31Z,43,What is meant by a random variable?
+51,68,2010-07-19T19:37:55Z,2,Measuring the effectiveness of a pattern recognition software
+53,17,2010-07-19T19:39:08Z,86,PCA on correlation or covariance?
+54,55,2010-07-19T19:41:19Z,14,Why do US and UK Schools Teach Different methods of Calculating the Standard Deviation?
+58,68,2010-07-19T19:42:57Z,11,Can someone please explain the back-propagation algorithm?
+62,58,2010-07-19T19:44:58Z,5,A case of survivorship bias?
+73,22,2010-07-19T19:51:32Z,28,What R packages do you find most useful in your daily work?
+93,61,2010-07-19T20:17:07Z,6,Robust nonparametric estimation of hazard/survival functions based on low count data
+95,57,2010-07-19T20:21:35Z,7,How Large a Difference Can Be Expected Between Standard GARCH and Asymmetric GARCH Volatility Forecasts?
+97,114,2010-07-19T20:23:22Z,50,What are good basic statistics to use for ordinal data?
+100,117,2010-07-19T20:30:23Z,5,Whats the purpose of window function in spectral analysis?
+103,5,2010-07-19T20:33:26Z,42,What is your favorite data visualization blog?
+113,39,2010-07-19T20:54:23Z,10,What are some good frameworks for method selection?
+114,8,2010-07-19T21:00:53Z,35,What statistical blogs would you recommend?
+118,83,2010-07-19T21:04:39Z,247,Why square the difference instead of taking the absolute value in standard deviation?
+124,131,2010-07-19T21:17:30Z,29,Statistical classification of text
+125,5,2010-07-19T21:18:12Z,142,What is the best introductory Bayesian statistics textbook?
+128,132,2010-07-19T21:23:57Z,7,How does one interpret a Bland-Altman plot?
+130,90,2010-07-19T21:26:27Z,35,Clojure versus R: advantages and disadvantages for data analysis
+134,138,2010-07-19T21:32:38Z,13,Algorithms to compute the running median?
+138,142,2010-07-19T21:38:10Z,78,Free resources for learning R
+146,144,2010-07-19T21:52:51Z,14,Can one use multiple regression to predict one principal component (PC) from several other PCs?
+152,NA,2010-07-19T22:37:38Z,12,Is there a standard method to deal with label switching problem in MCMC estimation of mixture models?
+155,154,2010-07-19T22:43:50Z,32,What is your favorite laymans explanation for a difficult statistical concept?
+156,148,2010-07-19T22:50:13Z,2,How to get to a t variable from linear regression
+161,154,2010-07-19T23:11:36Z,12,What methods can be used to determine the Order of Integration of a time series?
+165,74,2010-07-19T23:21:05Z,165,How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?
+166,154,2010-07-19T23:21:35Z,11,How do you decide the sample size when polling a large population?
+168,8,2010-07-19T23:26:44Z,24,Choosing a bandwidth for kernel density estimators
+170,8,2010-07-19T23:29:54Z,95,Free statistical textbooks
+173,71,2010-07-19T23:37:22Z,21,Time series for count data
+175,13,2010-07-19T23:39:49Z,51,How should outliers be dealt with in linear regression analysis?
+181,159,2010-07-20T00:15:02Z,163,How to choose the number of hidden layers and nodes in a feedforward neural network?
+183,166,2010-07-20T00:20:51Z,4,What tools could be used for applying clustering algorithms on MovieLens?
+192,1356,2010-07-20T01:18:11Z,3,Cross tabulation of two categorical variables: recommended techniques
+194,175,2010-07-20T01:47:36Z,7,Data Mining-- How to Tell Whether the Pattern Extracted is Meaningful?
+195,173,2010-07-20T02:01:05Z,7,What do you think is the best goodness of fit test?
+196,87,2010-07-20T02:17:24Z,30,Open source tools for visualizing multi-dimensional data?
+203,183,2010-07-20T03:31:45Z,21,Group differences on a five point Likert item
+205,187,2010-07-20T03:51:24Z,14,Why do we make a big fuss about using Fisher scoring when we fit a GLM?
+206,188,2010-07-20T03:53:54Z,28,What is the difference between discrete data and continuous data?
+212,190,2010-07-20T04:54:20Z,3,What method to use to test Statistical Significance of ASR results
+213,159,2010-07-20T05:02:33Z,74,What is the best way to identify outliers in multivariate data?
+216,191,2010-07-20T05:04:40Z,9,Web visualization libraries
+220,85,2010-07-20T05:23:04Z,33,How is the minimum of a set of random variables distributed?
+222,191,2010-07-20T05:37:46Z,46,What are principal component scores?
+223,79,2010-07-20T05:54:15Z,5,Intro to statistics for an MD?
+224,128,2010-07-20T06:03:59Z,8,Recommended visualization libraries for standalone applications
+225,196,2010-07-20T06:07:37Z,7,Why is the average of the highest value from 100 draws from a normal distribution different from the 98th percentile of the normal distribution?
+242,199,2010-07-20T07:56:16Z,12,Using time series analysis to analyze/predict violent behavior
+249,213,2010-07-20T08:49:13Z,4,Variance components
+256,217,2010-07-20T09:34:22Z,19,How does boosting work?
+257,217,2010-07-20T09:38:44Z,16,What is the easiest way to create publication-quality plots under Linux?
+267,194,2010-07-20T10:35:55Z,8,How do I calculate if the degree of overlap between two lists is significant?
+269,62,2010-07-20T11:07:42Z,18,What is the difference between a population and a sample?
+270,90,2010-07-20T11:08:47Z,14,Poisson regression with large data: is it wrong to change the unit of measurement?
+276,90,2010-07-20T11:43:25Z,9,How large should a sample be for a given estimation technique and parameters?
+277,215,2010-07-20T11:49:02Z,17,Spatial statistics models: CAR vs SAR
+278,221,2010-07-20T11:49:27Z,7,How to deal with the effect of the order of observations in a non hierarchical cluster analysis?
+283,215,2010-07-20T12:09:08Z,36,What is a saturated model?
+287,90,2010-07-20T12:29:17Z,10,What is the difference/relationship between method of moments and GMM?
+288,220,2010-07-20T12:29:34Z,6,Estimating beta-binomial distribution
+290,189,2010-07-20T12:33:30Z,10,Resources for learning Stata
+298,125,2010-07-20T13:11:50Z,102,In linear regression
+305,196,2010-07-20T14:19:41Z,37,When conducting a t-test why would one prefer to assume (or test for) equal variances rather than always use a Welch approximation of the df?
+312,NA,2010-07-20T15:03:40Z,4,What approach could be used for modelling virus infections?
+321,220,2010-07-20T16:01:25Z,14,How does gentle boosting differ from AdaBoost?
+322,3807,2010-07-20T16:03:40Z,14,Good introduction into different kinds of entropy
+328,75,2010-07-20T16:27:08Z,8,Resources for learning about the Statistical Analysis of Financial Data
+341,88,2010-07-20T18:12:29Z,2,kNN and unbalanced classes
+346,247,2010-07-20T19:21:16Z,40,What is a good algorithm for estimating the median of a huge read-once data set?
+354,3807,2010-07-20T22:26:26Z,11,Bias towards natural numbers in the case of least squares
+359,90,2010-07-20T23:28:49Z,9,The trinity of tests in maximum likelihood: what to do when faced with contradicting conclusions?
+362,196,2010-07-21T00:24:35Z,21,What is the difference between the Shapiro-Wilk test of normality and the Kolmogorov-Smirnov test of normality?
+363,74,2010-07-21T00:44:08Z,65,What is the single most influential book every statistician should read?
+369,191,2010-07-21T03:47:17Z,6,Working through a clustering problem
+372,252,2010-07-21T04:26:07Z,2,What are the key statistical concepts that relate to data mining?
+373,252,2010-07-21T04:30:50Z,27,The Monty Hall Problem - where does our intuition fail us?
+374,252,2010-07-21T04:32:42Z,8,What are pivot tables
+395,210,2010-07-21T10:13:25Z,4,How to tell if something happened in a data set which monitors a value over time
+396,NA,2010-07-21T11:00:44Z,38,What best practices should I follow when preparing plots?
+409,219,2010-07-21T13:11:33Z,2,How to approximate measurement uncertainty?
+411,89,2010-07-21T13:39:06Z,40,Motivation for Kolmogorov distance between distributions
+414,89,2010-07-21T13:50:08Z,44,Introduction to statistics for mathematicians
+418,77,2010-07-21T14:30:42Z,17,Why isnt RANSAC most widely used in statistics?
+421,219,2010-07-21T15:01:21Z,82,What book would you recommend for non-statistician scientists?
+423,5,2010-07-21T15:13:21Z,254,What is your favorite data analysis cartoon?
+452,215,2010-07-21T17:45:01Z,12,Always Report Robust (White) Standard Errors?
+459,259,2010-07-21T19:59:48Z,8,Good line color for threshold line in a time-series graph?
+480,223,2010-07-22T08:58:36Z,18,How does random forest generate the random forest
+481,199,2010-07-22T09:17:27Z,8,Is it valid to aggregate a time series to make it look more meaningful?
+485,183,2010-07-22T10:08:10Z,51,Mathematical Statistics Videos
+486,266,2010-07-22T10:11:15Z,25,Negative values for AICc (corrected Akaike Information Criterion)
+490,223,2010-07-22T11:10:29Z,26,Variable selection procedure for binary classification
+492,210,2010-07-22T11:31:16Z,10,Dubious use of signal processing principles to identify a trend
+498,62,2010-07-22T11:58:21Z,2,In SAS
+499,267,2010-07-22T12:06:28Z,20,When can you use data-based criteria to specify a regression model?
+507,215,2010-07-22T13:40:30Z,22,What is the best method for checking convergence in MCMC?
+517,68,2010-07-22T16:21:06Z,17,Unsupervised
+524,NA,2010-07-22T18:25:54Z,10,Is there a standard technique to debug MCMC programs?
+526,88,2010-07-22T19:17:41Z,7,Does the cross validation implementation influence its results?
+527,114,2010-07-22T21:15:52Z,9,What ways are there to show two analytical methods are equivalent?
+534,159,2010-07-23T01:56:02Z,60,Under what conditions does correlation imply causation?
+539,174,2010-07-23T06:17:10Z,41,Does it ever make sense to treat categorical data as continuous?
+548,266,2010-07-23T10:51:52Z,6,How can I use optimal scaling to scale an ordinal categorical variable?
+555,NA,2010-07-23T15:17:56Z,73,Why is ANOVA taught / used as if it is a different research methodology compared to linear regression?
+558,39,2010-07-23T16:15:33Z,13,Comprehensive overview of loss functions?
+562,5,2010-07-23T16:51:11Z,11,When to use multiple models for prediction?
+563,215,2010-07-23T16:53:20Z,18,What is an instrumental variable?
+564,215,2010-07-23T16:57:50Z,26,What is difference-in-differences?
+570,251,2010-07-23T17:59:27Z,13,What graphical techniques are used in Structural Equation Modeling?
+573,190,2010-07-23T19:45:45Z,10,How to understand a convolutional deep belief network for audio classification?
+575,196,2010-07-23T20:14:05Z,16,Post-hocs for within subjects tests?
+577,196,2010-07-23T20:49:12Z,134,Is there any reason to prefer the AIC or BIC over the other?
+581,99,2010-07-23T22:12:36Z,8,Differences between Baum-Welch and Viterbi training
+590,190,2010-07-24T09:09:14Z,2,To what extent can we call a Geometric Distribution a Geometric Density
+594,240,2010-07-24T19:25:59Z,15,E-M
+596,240,2010-07-24T19:50:48Z,1,Something like E-M for discriminative models?
+602,88,2010-07-24T22:29:40Z,3,Heuristics for optimizing ν-SVM?
+604,165,2010-07-24T23:09:05Z,7,Why prediction of a predicted variable from a discriminant analysis is imperfect
+608,196,2010-07-25T05:08:20Z,24,How can one empirically demonstrate in R which cross-validation methods the AIC and BIC are equivalent to?
+612,144,2010-07-25T14:31:31Z,42,Is PCA followed by a rotation (such as varimax) still PCA?
+614,107,2010-07-25T14:53:50Z,29,Open Source statistical textbooks?
+622,159,2010-07-26T09:12:21Z,34,What is the difference between a partial likelihood
+624,59,2010-07-26T11:53:11Z,3,Forecasting handbooks
+631,88,2010-07-26T16:10:45Z,38,Standard deviation of standard deviation
+633,59,2010-07-26T17:29:19Z,4,Incorporating boolean data into analysis
+638,59,2010-07-26T18:24:35Z,9,Calculating ratio of sample data used for model fitting/training and validation
+641,74,2010-07-26T19:20:53Z,5,Where is a good place to find survey results?
+643,7,2010-07-26T19:26:37Z,27,How do you convey the beauty of the Central Limit Theorem to a non-statistician?
+645,9426,2010-07-26T19:28:53Z,12,Best ways to aggregate and analyze data
+652,9426,2010-07-26T19:39:49Z,17,Best books for an introduction to statistical data analysis?
+660,292,2010-07-26T20:03:02Z,7,Automating statistical correlation between texts and data
+665,327,2010-07-26T20:17:17Z,73,Whats the difference between probability and statistics?
+672,333,2010-07-26T20:30:36Z,33,What is Bayes theorem all about?
+692,72,2010-07-26T22:29:48Z,9,How do I determine if a survival model with missing data is appropriate?
+712,402,2010-07-27T03:58:22Z,13,Data anonymization software
+715,130,2010-07-27T04:42:25Z,2,Dataset for multi class perceptron
+723,190,2010-07-27T06:00:07Z,8,How can I test whether my clustering of binary data is significant
+725,223,2010-07-27T06:10:43Z,5,Suggested R packages for frontier estimation or segmentation of hyperspectral images
+726,223,2010-07-27T06:20:38Z,186,Famous statistical quotations
+743,210,2010-07-27T08:13:26Z,4,Use of Bayesian Search Theory in geological interpretation
+764,445,2010-07-27T11:29:20Z,12,Linear Mixed Effects Models
+769,327,2010-07-27T12:46:48Z,2,What types of data analysis do not count as statistics?
+770,453,2010-07-27T12:53:30Z,6,Is it possible to use machine learning as a method for learning stats
+775,460,2010-07-27T13:14:54Z,9,Operations research versus statistical analysis?
+779,463,2010-07-27T13:49:41Z,9,Normal distribution and monotonic transformations
+790,228,2010-07-27T14:46:49Z,4,Why (or when) to use the log-mean?
+798,476,2010-07-27T15:21:48Z,48,Calculating optimal number of bins in a histogram
+805,NA,2010-07-27T15:43:55Z,2,How do I calculate the SE for PPV
+806,59,2010-07-27T15:56:38Z,4,When should normalization never be used?
+812,223,2010-07-27T16:19:42Z,6,What is the difference between functional data analysis and high dimensional data analysis
+820,488,2010-07-27T16:42:39Z,0,How can I link item by relevance?
+825,480,2010-07-27T17:04:37Z,27,Any suggestions for making R code use multiple processors?
+834,498,2010-07-27T17:46:25Z,4,What is AIC? Looking for a formal but intuitive answer
+837,501,2010-07-27T18:25:40Z,0,R lrm model with no predictors
+841,30,2010-07-27T18:38:02Z,14,Comparing the variance of paired observations
+846,503,2010-07-27T19:10:53Z,1,Regression output and Fisher-Snedecor distribution
+847,500,2010-07-27T19:12:53Z,0,What statistical model is used to calculate the test results for GWO?
+852,NA,2010-07-27T19:52:26Z,3,Elasticities Using GLM
+856,506,2010-07-27T20:24:45Z,9,Fishers Exact Test with weights?
+859,445,2010-07-27T21:07:20Z,11,ANOVA with non-independent observations
+866,455,2010-07-28T01:10:18Z,94,When should I use lasso vs ridge?
+868,9426,2010-07-28T03:15:34Z,3,Training a Logistic Regression Model
+870,520,2010-07-28T03:54:56Z,20,Multiple hypothesis testing correction with Benjamini-Hochberg
+871,520,2010-07-28T04:08:23Z,29,Correct formatting (capitalization
+880,223,2010-07-28T08:15:40Z,6,Cross validation in very high dimension (to select the number of used variables in very high dimensional classification)
+881,34,2010-07-28T08:15:51Z,5,Series expansion of a density function
+886,NA,2010-07-28T11:31:59Z,10,What is the fundamental idea of machine learning for estimating parameters?
+887,213,2010-07-28T12:02:21Z,3,Basic question regarding variance and stdev of a sample
+890,NA,2010-07-28T12:13:03Z,2,Reference category and prediction
+897,284,2010-07-28T13:32:32Z,15,Online vs offline learning?
+898,5,2010-07-28T13:49:07Z,6,Modeling of real-time streaming data?
+899,219,2010-07-28T13:53:18Z,12,Separating two populations from the sample
+913,59,2010-07-28T16:15:07Z,4,Relationships between two variables
+920,559,2010-07-28T17:15:09Z,5,Test if probabilities are statistically different?
+924,559,2010-07-28T17:36:24Z,6,Determine if three is statistically different than ten for a very large number of observations (1
+927,319,2010-07-28T17:43:49Z,28,Statistical podcasts
+928,1356,2010-07-28T17:57:51Z,5,Measurement level of percentile scores
+939,559,2010-07-28T20:43:33Z,3,Yates correction for continuity only for 2X2?
+942,75,2010-07-28T21:13:23Z,20,Application of wavelets to time-series-based anomaly detection algorithms
+944,NA,2010-07-28T21:45:46Z,1,How can I get R to stop autocompleting my quotes/parens?
+946,569,2010-07-28T21:50:29Z,2,Column Means Significance Tests in R
+949,511,2010-07-28T21:59:02Z,17,When is logistic regression solved in closed form?
+951,172,2010-07-29T00:48:11Z,7,Nonhomogeneous Poisson and Heavy tail inter arrival time distribution
+952,513,2010-07-29T01:45:55Z,4,How to reduce number of items on a multi-item scale where each item requires ranking four response options
+961,582,2010-07-29T07:07:36Z,11,Statistical test for n x m contingency tables
+964,438,2010-07-29T08:28:36Z,3,What are analysts looking for when they plot a differenced
+973,223,2010-07-29T12:02:28Z,28,Free data set for very high dimensional classification
+977,210,2010-07-29T13:43:53Z,3,How many measurements are needed to baseline a measurement?
+980,NA,2010-07-29T14:04:20Z,5,How do I reduce the number of data points in a series?
+1001,608,2010-07-29T18:46:47Z,3,Is Spearmans correlation coefficient usable to compare distributions?
+1012,196,2010-07-29T21:29:57Z,1,What would the calculated value of the standard deviation of a uniform distribution be?
+1015,108,2010-07-29T22:03:55Z,7,Reliability in Elicitation Exercise
+1016,614,2010-07-29T22:04:32Z,9,Is a variable significant in a linear regression model?
+1023,74,2010-07-29T23:04:08Z,10,Where can I find good statistics quizzes?
+1028,608,2010-07-30T00:55:20Z,14,Questions about KL divergence?
+1040,168,2010-07-30T14:24:17Z,1,What is the interpretation/meaning of confidence intervals in misspecified models?
+1045,NA,2010-07-30T16:06:54Z,3,Is there a radical difference in how bayesian and frequentist approaches treat nuisance parameters?
+1047,614,2010-07-30T17:00:57Z,19,Is Kolmogorov-Smirnov test valid with discrete distributions?
+1052,NA,2010-07-30T22:38:06Z,13,What is the major difference between correlation and mutual information?
+1053,172,2010-07-31T00:51:52Z,29,References for survival analysis
+1054,172,2010-07-31T00:59:11Z,4,R command for stcox in Stata
+1060,339,2010-07-31T09:39:47Z,6,Why does AIC formula in R appear to use one extra parameter than expected?
+1062,368,2010-07-31T14:19:13Z,5,Orthogonal parametrization
+1063,353,2010-07-31T14:29:15Z,6,Why are mean 0 and standard deviation 1 distributions always used?
+1066,634,2010-07-31T18:20:26Z,1,Approximating density function for a non-normal distribution
+1081,144,2010-08-01T07:16:03Z,3,Help me understand nMDS algorithm
+1082,NA,2010-08-01T11:48:48Z,4,How to define the significance threshold for mutual information in terms of probability of that value occurring in surrogate set?
+1084,642,2010-08-01T12:08:02Z,4,Equation to calculate a smooth line given an irregular time series?
+1093,647,2010-08-01T22:31:15Z,2,Density function for a multivariate Bernoulli-like distribution
+1095,282,2010-08-01T22:52:13Z,1,Tonga: low rank approximation of the natural gradient
+1099,588,2010-08-02T04:40:22Z,8,How to handle count data (categorical data)
+1112,652,2010-08-02T14:38:55Z,21,How to represent an unbounded variable as number between 0 and 1
+1123,NA,2010-08-02T17:08:08Z,2,Modeling success rate with gaussian distribution
+1126,660,2010-08-02T17:29:12Z,10,Reasons besides prediction to build models?
+1130,474,2010-08-02T18:44:15Z,4,Regression-multiple observations per subject
+1133,287,2010-08-02T19:19:42Z,9,Multiple Chi-Squared Tests
+1142,667,2010-08-02T20:37:27Z,61,Simple algorithm for online outlier detection of a generic time series
+1149,NA,2010-08-02T22:42:32Z,59,Is there an intuitive explanation why multicollinearity is a problem in linear regression?
+1160,253,2010-08-03T03:02:57Z,1,What code would you put before/after your R session?
+1164,438,2010-08-03T07:49:34Z,66,Why havent robust (and resistant) statistics replaced classical techniques?
+1169,364,2010-08-03T12:20:09Z,5,CI for a difference based on independent CIs
+1173,8,2010-08-03T13:36:38Z,13,Alternative graphics to handle bar plots
+1174,634,2010-08-03T13:54:19Z,34,How can I test if given samples are taken from a Poisson distribution?
+1184,573,2010-08-03T16:26:48Z,3,Introduction to index decomposition analysis
+1194,11,2010-08-03T20:19:57Z,51,Practical thoughts on explanatory vs. predictive modeling
+1195,687,2010-08-03T20:23:34Z,6,How can I apply a Pareto tail to a truncated distribution?
+1202,608,2010-08-03T22:09:33Z,2,Ranking distributional data by similarity
+1205,366,2010-08-03T22:56:48Z,7,Two-sample T-test with weighted data
+1207,667,2010-08-04T00:32:13Z,31,Period detection of a generic time series
+1215,698,2010-08-04T05:41:51Z,2,Analysis of sells (what to buy)
+1223,127,2010-08-04T10:02:35Z,13,Robust outlier detection in financial timeseries
+1224,NA,2010-08-04T10:38:03Z,2,Heterogeneity with two studies
+1228,588,2010-08-04T12:05:30Z,8,How to interpret a control chart containing a majority of zero values?
+1241,684,2010-08-04T15:13:27Z,11,What do ROC curves tell you that traditional inference wouldnt?
+1249,168,2010-08-04T16:04:56Z,6,Non-trivial bound for $E[\exp(Z^2)]$ when $Z \sim {\rm Bin}(n
+1252,59,2010-08-04T16:39:49Z,35,Statistical models cheat sheet
+1253,738,2010-08-04T16:53:04Z,6,How to limit my input data for Jaccard item-item similarity calculation?
+1256,196,2010-08-04T17:39:29Z,5,How can one speed up this correlation calculation in R without multicore?
+1257,NA,2010-08-04T18:04:52Z,1,What is the correct likelihood function for an sequential
+1261,287,2010-08-04T19:06:50Z,3,Fitting a fixed
+1266,253,2010-08-04T20:01:07Z,13,A non-parametric repeated-measures multi-way Anova in R?
+1268,170,2010-08-04T20:51:04Z,11,SVD dimensionality reduction for time series of different length
+1270,749,2010-08-04T21:12:03Z,4,Exponential moving averages of a time series with varying sampling
+1272,NA,2010-08-04T21:30:19Z,0,How to organize a dataset with many attributes
+1274,273,2010-08-04T22:17:59Z,6,Best way to show these or similar count data are not independent?
+1278,588,2010-08-05T01:24:22Z,3,Is calculating Incidence Rate Difference/Ratio appropriate for single case experimental design?
+1286,196,2010-08-05T04:54:46Z,7,How can I obtain some of all possible combinations in R?
+1289,760,2010-08-05T10:03:34Z,8,Visualizing multiple histograms
+1292,217,2010-08-05T10:42:44Z,22,What is the weak side of decision trees?
+1293,59,2010-08-05T10:47:12Z,1,Essential reads for people interested in Actuary and Actuarial science
+1296,762,2010-08-05T11:59:25Z,9,How to find a confidence interval for the total number of events
+1308,765,2010-08-05T14:00:07Z,23,Extending the birthday paradox to more than 2 people
+1315,775,2010-08-05T19:26:34Z,20,How do I figure out what kind of distribution represents this data on ping response times?
+1321,776,2010-08-05T21:12:50Z,6,Visualizing two scalar variables over time
+1324,1356,2010-08-05T22:16:20Z,4,Parametric techniques for n-related samples
+1337,521,2010-08-06T01:53:47Z,116,Statistics Jokes
+1350,189,2010-08-06T06:32:06Z,2,How to get around Numerical Overflow in Stata?
+1352,144,2010-08-06T08:06:13Z,10,References for how to plan a study
+1355,114,2010-08-06T09:48:14Z,6,How could I predict the results of a simple card game?
+1357,NA,2010-08-06T10:48:52Z,1,Is mutual information invariant to scaling
+1358,650,2010-08-06T10:57:18Z,13,Intuition for higher moments in circular statistics
+1369,791,2010-08-06T14:01:57Z,0,Sampling according to a normal distribution
+1376,795,2010-08-06T19:02:08Z,4,Robust version of Hotelling $T^2$ test
+1378,71,2010-08-06T21:54:11Z,9,Estimating variability over time
+1380,795,2010-08-06T22:16:01Z,3,Comparing multiple contingency tables
+1383,799,2010-08-07T03:47:26Z,0,Suggest a method for statistical data compression
+1385,438,2010-08-07T05:07:27Z,9,Techniques for Handling Incomplete/Missing Data
+1386,795,2010-08-07T05:18:58Z,14,Robust t-test for mean 
+1389,189,2010-08-07T07:23:07Z,4,What is numerical overflow?
+1395,807,2010-08-07T13:53:16Z,5,Libraries for forest and funnel plots
+1399,364,2010-08-07T18:10:02Z,8,Obtaining and interpreting bootstrapped confidence intervals from hierarchical data
+1405,NA,2010-08-08T00:44:57Z,5,Statistical test for difference between two odds ratios?
+1412,196,2010-08-08T18:10:40Z,3,Consequences of an improper link function in N alternative forced choice procedures (e.g. 2AFC)?
+1413,196,2010-08-08T18:14:35Z,2,Mixed regression models and custom link functions in R?
+1424,1356,2010-08-09T00:00:13Z,5,The Risk game dice problem
+1427,394,2010-08-09T03:57:50Z,2,Time-series data pre-aggregated into non-stationary rolling 12-month periods: are there special considerations for modeling?
+1430,352,2010-08-09T06:50:42Z,7,Example of a process that is 2nd order stationary but not strictly stationary
+1432,196,2010-08-09T07:32:32Z,44,What do the residuals in a logistic regression mean?
+1437,NA,2010-08-09T10:37:59Z,1,Can Principal Component Analysis be used alone to infer major patterns within data instead of k means clustering?
+1444,159,2010-08-09T13:57:51Z,127,How should I transform non-negative data including zeros?
+1447,6967,2010-08-09T14:52:42Z,17,Coefficient of Determination ($r^2$): I have never fully grasped the interpretation
+1454,247,2010-08-09T17:43:33Z,1,How to identify points and an unknown distribution in a two type clustering problem?
+1455,253,2010-08-09T17:47:12Z,10,What is the distribution of OR (odds ratio)?
+1458,148,2010-08-09T18:03:54Z,38,Why is multiple comparison a problem?
+1459,833,2010-08-09T18:10:39Z,6,How to identify transfer functions in a time series regression forecasting model?
+1460,834,2010-08-09T18:16:21Z,1,Ideal transformation for consumption variable in a probit model
+1462,6967,2010-08-09T18:53:30Z,3,Using Std.Dev and Mean to generate hypothetical/additional data points?
+1469,511,2010-08-09T21:55:08Z,3,A Primer on Estimator Efficiency?
+1471,840,2010-08-09T22:25:11Z,7,Is it possible to directly read CSV columns as categorical data?
+1475,NA,2010-08-09T22:33:40Z,14,Visualization software for clustering
+1478,795,2010-08-10T00:33:26Z,3,Testing implementation of Anderson-Darling test for uniform RV
+1485,851,2010-08-10T06:41:06Z,5,Few machine learning problems
+1487,213,2010-08-10T06:55:21Z,1,Correcting experiment results
+1493,852,2010-08-10T08:45:44Z,4,What is the distribution of $\chi^n_k$?
+1495,665,2010-08-10T09:02:02Z,11,Cognitive processing/interpretation of data visualizations techniques
+1501,114,2010-08-10T13:47:10Z,3,What resources/methods exist for testing/validation or evaluation of Statistical Methods
+1507,6967,2010-08-10T16:03:57Z,0,Example of using binomial distribution
+1517,857,2010-08-10T22:39:06Z,3,Useful statistical functions for business -- for use by a newbie
+1519,830,2010-08-11T02:33:03Z,6,On univariate outlier tests (or: Dixon Q versus Grubbs)
+1520,862,2010-08-11T05:17:23Z,7,The expected value of random variable on tosses of a coin
+1521,485,2010-08-11T05:31:50Z,18,Data Mining and Statistical Analysis
+1525,74,2010-08-11T07:24:02Z,19,Whats the difference between a probability and a proportion?
+1529,8,2010-08-11T10:09:24Z,8,What type of post-fit analysis of residuals do you use?
+1531,588,2010-08-11T10:30:31Z,6,How to calculate the exact confidence interval for relative risk?
+1534,867,2010-08-11T12:12:35Z,2,Best method for comparing multiple ranging measures
+1536,NA,2010-08-11T12:51:51Z,2,What are the advantages of using mutual information over Pearson correlation in network inference?
+1538,650,2010-08-11T13:15:24Z,15,Why does the supremum of the Brownian bridge have the Kolmogorov–Smirnov distribution?
+1540,870,2010-08-11T13:38:19Z,6,What is the expected MINIMUM value drawn from a uniform distribution between 0 and 1 after n trials?
+1542,125,2010-08-11T13:48:20Z,2,Analysis of multiple time series
+1555,559,2010-08-11T20:31:25Z,4,Test if differences between frequencies is significant
+1556,559,2010-08-11T20:55:41Z,8,Statistically significant vs. independent/dependent
+1557,795,2010-08-11T20:57:31Z,12,James-Stein shrinkage in the wild?
+1561,876,2010-08-11T21:28:10Z,1,Normalizing data
+1562,NA,2010-08-11T21:49:08Z,4,What dependence is implied by a chi square test for independence?
+1564,NA,2010-08-11T22:14:39Z,11,How can I calculate the conditional probability of several events?
+1571,291,2010-08-11T23:47:41Z,4,Recreating traditional null hypothesis testing with Bayesian methods
+1576,776,2010-08-12T03:46:05Z,127,What are the differences between Factor Analysis and Principal Component Analysis?
+1580,183,2010-08-12T05:03:22Z,18,Regression coefficients that flip sign after including other predictors
+1583,196,2010-08-12T06:46:44Z,3,Appropriate link function for 2AFC data?
+1590,888,2010-08-12T08:50:26Z,0,Does an r value of 0.60 mean that an increase in one variable is 60% likely to mean an increase in the other variable?
+1595,890,2010-08-12T10:46:45Z,293,Python as a statistics workbench
+1601,445,2010-08-12T13:20:13Z,10,What other normalizing transformations are commonly used beyond the common ones like square root
+1604,847,2010-08-12T15:16:55Z,5,Constructing smoothing splines with cross-validation
+1610,110,2010-08-12T19:55:02Z,64,Is there a way to remember the definitions of Type I and Type II Errors?
+1611,572,2010-08-12T20:09:33Z,33,Do working statisticians care about the difference between frequentist and Bayesian inference?
+1621,511,2010-08-12T23:53:12Z,11,Using information geometry to define distances and volumes…useful?
+1622,795,2010-08-13T00:18:34Z,1,Comparing 2 independent non-central t statistics
+1624,850,2010-08-13T00:48:15Z,3,Based on z-score
+1637,199,2010-08-13T09:41:13Z,32,If the t-test and the ANOVA for two groups are equivalent
+1645,1356,2010-08-13T12:42:30Z,17,Appropriate normality tests for small samples
+1646,183,2010-08-13T12:44:23Z,7,Intraclass correlation and aggregation
+1649,364,2010-08-13T13:58:38Z,5,Using mixed effects modelling to estimate and compare variability
+1651,NA,2010-08-13T14:28:02Z,5,How to fit a negative binomial distribution in R while incorporating censoring
+1660,559,2010-08-13T16:43:45Z,10,What is a test of independence?
+1661,NA,2010-08-13T17:21:37Z,2,Which 2-sample univariate t-test to use?
+1667,110,2010-08-13T22:29:08Z,4,What books provide an overview of engineering statistics?
+1668,110,2010-08-13T22:35:50Z,14,What books provide an overview of computational statistics as it applies to computer science?
+1674,511,2010-08-14T01:31:43Z,5,Fisher information and the surface area of the typical set
+1676,110,2010-08-14T01:39:23Z,7,I just installed the latest version of R. What packages should I obtain?
+1681,511,2010-08-14T07:16:00Z,3,Chernoff-like bound for largest allowed deviation?
+1687,937,2010-08-14T14:00:16Z,2,Applied statistics to find the minimum load for power factor floor
+1699,862,2010-08-15T03:10:05Z,5,Tangency portfolio in R
+1708,952,2010-08-15T14:10:53Z,1,Variation in PCA weights
+1709,198,2010-08-15T14:30:23Z,5,How to draw a probable outcome from a distribution?
+1713,339,2010-08-15T17:01:49Z,11,Express answers in terms of original units
+1719,59,2010-08-15T22:51:09Z,8,Video/Audio online material for getting into Bayesian analysis and logistic-regressions
+1729,913,2010-08-16T08:11:26Z,6,Export/format output from pairwise.t.test to LaTeX
+1735,962,2010-08-16T11:36:42Z,5,Method to compare variable coefficient in two regression models
+1736,172,2010-08-16T12:10:29Z,32,Survival Analysis tools in Python
+1737,NA,2010-08-16T13:23:52Z,11,How to find summary statistics for all unique combinations of factors in a data.frame in R?
+1749,196,2010-08-16T17:27:28Z,5,How can you approximate the number of trials to success given a particular Pr(Success)?
+1753,968,2010-08-16T18:01:43Z,1,Visualizing standard deviation on a Cartesian plot
+1757,569,2010-08-16T23:36:20Z,6,Significant Difference between two network graphs
+1761,253,2010-08-17T02:52:02Z,27,Statistics/Probability Videos for Beginners
+1764,144,2010-08-17T05:22:31Z,25,What are alternatives to broken axes?
+1773,977,2010-08-17T09:11:30Z,9,What are correct values for precision and recall in edge cases?
+1776,962,2010-08-17T11:23:18Z,-1,Shall I trust AIC (non-full model) or slope (full model)?
+1780,114,2010-08-17T13:10:09Z,6,How to start an analysis of keywords from a bibliography and detect correlations?
+1781,919,2010-08-17T13:10:29Z,17,Unbiased estimation of covariance matrix for multiply censored data
+1787,253,2010-08-17T15:56:39Z,5,Using bootstrap for glm coefficients variance estimation (in R)
+1790,979,2010-08-17T16:39:24Z,6,Meaningful deviation measure with strongly varying datapoints
+1797,601,2010-08-17T19:15:32Z,12,What would a confidence interval around a predicted value from a mixed effects model mean?
+1799,835,2010-08-17T20:00:59Z,7,Recommendations - or best practices - for analyzing non-independent data. Specific example relating to pain perception data provided
+1805,561,2010-08-17T23:42:12Z,26,Fishers Exact Test in contingency tables larger than 2x2
+1807,850,2010-08-18T01:39:31Z,21,How to perform Students t-test having only sample size
+1812,339,2010-08-18T07:36:59Z,6,FA: Choosing Rotation matrix
+1813,986,2010-08-18T08:29:52Z,9,Comparing two genetic algorithms
+1815,174,2010-08-18T08:54:23Z,41,Recommended books on experiment design?
+1818,588,2010-08-18T10:56:21Z,12,How to determine the sample size needed for repeated measurement ANOVA?
+1822,283,2010-08-18T11:37:10Z,3,Test for Poolability of Individual Data Series
+1826,5,2010-08-18T13:11:19Z,51,Cross-Validation in plain english?
+1829,988,2010-08-18T13:30:31Z,30,What algorithm is used in linear regression?
+1838,990,2010-08-18T14:55:55Z,9,How do I vertically stack two graphs with the same x scale
+1841,990,2010-08-18T15:19:44Z,7,Hypothesis testing that one time-series of a measure of entropy doesnt belong to a population
+1844,25,2010-08-18T15:47:15Z,15,What are the pros and cons of using the logrank vs. the Mantel-Haenszel method for computing the Hazard Ratio in survival analysis?
+1848,991,2010-08-18T16:43:11Z,8,Bayesian rating system with multiple categories for each rating
+1850,559,2010-08-18T17:35:17Z,12,Difference between Cohens d and Hedges g for effect size metrics
+1853,795,2010-08-18T18:49:48Z,10,Testing two independent samples for null of same skew?
+1856,930,2010-08-18T20:36:59Z,13,Application of machine learning techniques in small sample clinical studies
+1860,78,2010-08-18T22:58:05Z,4,Regression specification choices
+1862,840,2010-08-19T00:31:44Z,11,How to summarize categorical data?
+1863,993,2010-08-19T00:50:20Z,5,Might be an unbalanced within subjects repeated measures?
+1865,994,2010-08-19T01:15:27Z,6,What is the expected number of runs of same color in a standard deck of cards?
+1866,253,2010-08-19T02:10:15Z,12,How to simulate a custom power analysis of an lm model (using R)
+1870,253,2010-08-19T04:35:15Z,4,How to learn how to use a new statistical GUI?
+1873,997,2010-08-19T04:50:25Z,2,Based on my data
+1874,996,2010-08-19T04:53:32Z,4,Parametric Surface Reconstruction from Contours with Quick Rescaling
+1875,997,2010-08-19T05:56:06Z,20,Is my weatherman accurate?
+1881,582,2010-08-19T06:42:15Z,9,Analysis of cross correlation between point-processes
+1895,1001,2010-08-19T11:33:01Z,3,Determining the variability of a benchmark
+1904,5,2010-08-19T13:25:53Z,13,Statistics conferences?
+1906,5,2010-08-19T13:37:35Z,7,Data mining conferences?
+1912,5,2010-08-19T14:15:28Z,3,Why can scale invariance cause a loss of explanatory power?
+1914,1004,2010-08-19T15:13:49Z,5,Choice for priors for exponential spatial covariance
+1915,1007,2010-08-19T16:09:23Z,7,Newmans modularity clustering for graphs
+1923,511,2010-08-19T17:56:58Z,5,How to compute efficiency?
+1927,1011,2010-08-19T19:36:01Z,25,Is there an accepted definition for the median of a sample on the plane
+1935,561,2010-08-20T00:10:33Z,8,Whither bootstrapping - can someone provide a simple explanation to get me started?
+1942,183,2010-08-20T02:25:32Z,5,Quantitative methods and statistics conferences in psychology?
+1944,582,2010-08-20T08:31:16Z,2,What is the name of this normalization?
+1955,174,2010-08-20T13:59:34Z,5,Comparing noisy data sequences to estimate the likelihood of them being produced by different instances of an identical Markov process
+1961,253,2010-08-20T17:15:43Z,3,Can you use normal correlation for vectors with only 2 (or 3)
+1963,919,2010-08-20T18:06:04Z,13,Looking for good introductory treatment of meta-analysis
+1964,1025,2010-08-20T18:34:22Z,9,Kernel bandwidth in Kernel density estimation
+1966,961,2010-08-20T20:10:24Z,7,Density estimation methods?
+1970,168,2010-08-20T21:30:13Z,6,What is a statistical journal with quick turnaround?
+1972,1029,2010-08-20T22:12:36Z,5,Family-wise confidence intervals
+1980,183,2010-08-21T04:58:11Z,64,Complete substantive examples of reproducible research using R
+1995,835,2010-08-22T00:22:33Z,28,Under what conditions should one use multilevel/hierarchical analysis?
+1998,835,2010-08-22T00:53:28Z,9,How problematic is it to control for non-independent covariates in an observational (i.e.
