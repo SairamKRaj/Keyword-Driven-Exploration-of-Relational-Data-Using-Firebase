@@ -41,6 +41,7 @@ The 3 selected databases are:
 					<p><a class="btn btn-secondary" href="https://www.linkedin.com/in/%E5%BD%AC-%E9%99%88-a893b9193/" role="button">View details »</a></p>	
 					</div><!-- /.col-lg-6 -->
 			</div><!-- /.row -->
+	</hr>
 
 
 ### Prior Research for the Project
