@@ -24,7 +24,7 @@ The 3 selected databases are:
 
 <hr class="featurette-divider">
 <div>
-			<div class="text-center" id="Team">
+			<div class="row text-center" id="Team">
 				<h2>Come meet our team members!</h2>
 			</div>
 			<div class="row">	
