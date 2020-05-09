@@ -22,11 +22,15 @@ The 3 selected databases are:
 
 ### Team Members
 
-<img src="sairam1.png" alt="Avatar">
-
-
-<img src="sairam2.png" alt="Avatar">
-
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+<body>
+<h2>Sairam Kamal Raj</h2>
+<img src="sairam1.png" alt="Avatar" style="width:200px">
+</body>
 ### Prior Research for the Project
 
 We performed extensive research of over 50+ databases from several online repositories like Kaggle, Google Data Search, MySQL databases and sample databases from Microsoft and selected 3 databases that satisfies the course project requirement of having 3 tables in each dataset and over 100+ records in each table.
