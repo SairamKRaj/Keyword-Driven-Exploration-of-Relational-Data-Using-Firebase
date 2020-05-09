@@ -23,7 +23,7 @@ The 3 selected databases are:
 ### Team Members
 
 <hr class="featurette-divider">
-			<div class="row text-center" id="Team">
+			<div class="text-center" id="Team">
 				<h2>Come meet our team members!</h2>
 			</div>
 			<div class="row">	
