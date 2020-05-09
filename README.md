@@ -20,7 +20,7 @@ The 3 selected databases are:
 </video>
 </div>
 
-### Team Members
+### Come meet our Team Members!
 <hr class="featurette-divider">
 <div>
 			<div class="row text-center" id="Team">
@@ -51,4 +51,4 @@ We performed extensive research of over 50+ databases from several online reposi
 While, I performed research on steps and processes of loading huge databases onto Firebase and how to overcome memory issues. My teammate performed research on steps to connect Web UI with Firebase and performing foreign-key searches across tables present in the database.
 
 ### Project Documentation
-Find the complete documentation of the project [Here](https://github.com/SairamKRaj/Keyword-Driven-Exploration-of-Relational-Data-Using-Firebase/tree/master/Reports/Final Report/FinalProjectReport.docx).
+Find the complete documentation of the project [Here](https://github.com/SairamKRaj/Keyword-Driven-Exploration-of-Relational-Data-Using-Firebase/tree/master/Reports/Final Report/FinalProjectReport.docx) and the project slides [Here](https://github.com/SairamKRaj/Keyword-Driven-Exploration-of-Relational-Data-Using-Firebase/tree/master/Reports/Final Report/FinalProjectReport.docx).
