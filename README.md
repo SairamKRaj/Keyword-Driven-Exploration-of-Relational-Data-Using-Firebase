@@ -41,6 +41,7 @@ The 3 selected databases are:
 					</div><!-- /.col-lg-6 -->
 			</div><!-- /.row -->
 	</div>
+	</div>
 
 ### Prior Research for the Project
 
