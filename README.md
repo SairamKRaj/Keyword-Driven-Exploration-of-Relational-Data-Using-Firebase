@@ -23,9 +23,6 @@ The 3 selected databases are:
 ### Come meet our Team Members!
 <hr class="featurette-divider">
 <div>
-			<div class="row text-center" id="Team">
-				<h2>Come meet our team members!</h2>
-			</div>
 			<div class="row" style="display:flex">	
 				<div class="col-lg-4" style="max-width:50%; padding-right:89px">
 					<img class="rounded-circle" src="sairam2.png" alt="Generic placeholder image" width="140" height="140">
