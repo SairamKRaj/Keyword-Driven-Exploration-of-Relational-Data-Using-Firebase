@@ -29,7 +29,7 @@ img {
 </style>
 <body>
 <h2>Sairam Kamal Raj</h2>
-<img src="sairam1.png" alt="Sairam Kamal Raj" style="width:200px">
+<img src="sairam2.png" alt="Sairam Kamal Raj" style="width:200px">
 </body>
 
 ### Prior Research for the Project
