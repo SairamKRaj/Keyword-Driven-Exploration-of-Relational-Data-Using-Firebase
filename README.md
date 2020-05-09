@@ -42,7 +42,6 @@ The 3 selected databases are:
 					<p><a class="btn btn-secondary" href="https://www.linkedin.com/in/tejaswini-prakash-kulkarni/" role="button">View details »</a></p>	
 					</div><!-- /.col-lg-6 -->
 			</div><!-- /.row -->
-	</div>
 
 
 ### Prior Research for the Project
