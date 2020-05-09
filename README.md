@@ -30,6 +30,8 @@ img {
 <body>
 <h2>Sairam Kamal Raj</h2>
 <img src="sairam2.png" alt="Sairam Kamal Raj" style="width:200px">
+C.S (Data Science) Master's Student in Viterbi School, USC.
+Experienced in Data Engineering and Data Science.
 <h2>Tejaswini Prakash Kulkarni</h2>
 <img src="tejaswini.png" alt="Tejaswini Prakash Kulkarni" style="width:200px">
 
