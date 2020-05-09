@@ -29,3 +29,4 @@ We performed extensive research of over 50+ databases from several online reposi
 While, I performed research on steps and processes of loading huge databases onto Firebase and how to overcome memory issues. My teammate performed research on steps to connect Web UI with Firebase and performing foreign-key searches across tables present in the database.
 
 ### Project Documentation
+Find the complete documentation of the project [https://github.com/SairamKRaj/Keyword-Driven-Exploration-of-Relational-Data-Using-Firebase/tree/master/Reports/Final%20Report/FinalProjectReport.docx](Here).
