@@ -22,20 +22,24 @@ The 3 selected databases are:
 
 ### Team Members
 
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-<body>
-<h2>Sairam Kamal Raj</h2>
-<img src="sairam2.png" alt="Sairam Kamal Raj" style="width:200px">
-C.S (Data Science) Master's Student in Viterbi School, USC.
-Experienced in Data Engineering and Data Science.
-<h2>Tejaswini Prakash Kulkarni</h2>
-<img src="tejaswini.png" alt="Tejaswini Prakash Kulkarni" style="width:200px">
+<hr class="featurette-divider">
+			<div class="row text-center" id="Team">
+				<h2>Come meet our team members!</h2>
+			</div>
+			<div class="row">	
+				<div class="col-lg-4">
+					<img class="rounded-circle" src="sairam2.pnf" alt="Generic placeholder image" width="140" height="140">
+					<h2>Sairam Kamal Raj</h2>
+					<p>CS (Data Science) Master student at Viterbi, USC. Experienced in Data Engineering and Big Data Analytics.</p>
+					<p><a class="btn btn-secondary" href="https://www.linkedin.com/in/sairam-k-raj-at-usc/" role="button">View details »</a></p>
+			<div class="row text-center">
+				<div class="col-lg-6">
+					<img class="rounded-circle" src="tejaswini.png" alt="Generic placeholder image" width="140" height="140">
+					<h2>Tejaswini Prakash Kulkarni</h2>
+					<p>CS Master student at USC. </p>
+					<p><a class="btn btn-secondary" href="https://www.linkedin.com/in/%E5%BD%AC-%E9%99%88-a893b9193/" role="button">View details »</a></p>	
+			</div><!-- /.row -->
 
-</body>
 
 ### Prior Research for the Project
 
