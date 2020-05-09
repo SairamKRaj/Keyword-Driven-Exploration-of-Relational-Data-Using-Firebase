@@ -28,7 +28,7 @@ The 3 selected databases are:
 			</div>
 			<div class="row">	
 				<div class="col-lg-4">
-					<img class="rounded-circle" src="sairam2.pnf" alt="Generic placeholder image" width="140" height="140">
+					<img class="rounded-circle" src="sairam2.png" alt="Generic placeholder image" width="140" height="140">
 					<h2>Sairam Kamal Raj</h2>
 					<p>CS (Data Science) Master student at Viterbi, USC. Experienced in Data Engineering and Big Data Analytics.</p>
 					<p><a class="btn btn-secondary" href="https://www.linkedin.com/in/sairam-k-raj-at-usc/" role="button">View details »</a></p>
