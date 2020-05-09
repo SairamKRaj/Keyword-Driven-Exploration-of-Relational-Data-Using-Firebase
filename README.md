@@ -27,15 +27,15 @@ The 3 selected databases are:
 			<div class="row text-center" id="Team">
 				<h2>Come meet our team members!</h2>
 			</div>
-			<div class="row" style={"display":"flex"}>	
-				<div class="col-lg-4" style={"max-width":"50%", "padding-right":"89px"}>
+			<div class="row" style={"display:flex"}>	
+				<div class="col-lg-4" style={"max-width:50%; padding-right:89px"}>
 					<img class="rounded-circle" src="sairam2.png" alt="Generic placeholder image" width="140" height="140">
 					<h2>Sairam Kamal Raj</h2>
 					<p>CS (Data Science) Master student at Viterbi, USC. Experienced in Data Engineering and Big Data Analytics.</p>
 					<p><a class="btn btn-secondary" href="https://www.linkedin.com/in/sairam-k-raj-at-usc/" role="button">View details »</a></p>
 					</div><!-- /.col-lg-4 -->
 			<div class="row text-center">
-				<div class="col-lg-4" style={"padding-left":"88px"}>
+				<div class="col-lg-4" style={"padding-left:88px"}>
 					<img class="rounded-circle" src="tejaswini.png" alt="Generic placeholder image" width="140" height="140">
 					<h2>Tejaswini Prakash Kulkarni</h2>
 					<p>CS Master student at USC. </p>
